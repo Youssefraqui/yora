@@ -1,2 +1,0 @@
-# yora2
-test
